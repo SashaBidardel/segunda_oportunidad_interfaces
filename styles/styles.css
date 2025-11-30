@@ -196,6 +196,10 @@ h1,h2,h3,p{
 .producto_carrito{
    margin-left: 5%;
 }
+#errores{
+  color:red; 
+  margin-top:10px;
+}
 @media screen and (max-width: 768px) {
     #producto {
         flex-direction: column;  
