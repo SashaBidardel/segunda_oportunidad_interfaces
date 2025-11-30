@@ -8,9 +8,8 @@ Este repositorio contiene el desarrollo del proyecto **“Segunda Oportunidad”
 
 - **/html/** – Páginas HTML del proyecto  
 - **/css/** – Hojas de estilo CSS  
-- **/js/** – Scripts en JavaScript (validaciones, carrito, interacciones)  
-- **/img/** – Recursos gráficos  
-- **/docs/** – Documentación del proyecto (wireframes, presupuesto, comparativas, etc.)
+- **/JQ/** – Scripts en JavaScript (validaciones, carrito, interacciones)  
+- **/imgagenes/** – Imágenes
 
 ---
 
