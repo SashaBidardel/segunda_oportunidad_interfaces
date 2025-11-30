@@ -8,9 +8,8 @@ Este repositorio contiene el desarrollo del proyecto **“Segunda Oportunidad”
 
 - **/html/** – Páginas HTML del proyecto  
 - **/css/** – Hojas de estilo CSS  
-- **/js/** – Scripts en JavaScript (validaciones, carrito, interacciones)  
-- **/img/** – Recursos gráficos  
-- **/docs/** – Documentación del proyecto (wireframes, presupuesto, comparativas, etc.)
+- **/JQ/** – Scripts en jQuery (validaciones,próximanete carrito, interacciones...)  
+- **/imagenes/** – Imágenes
 
 ---
 
@@ -20,7 +19,6 @@ Este repositorio contiene el desarrollo del proyecto **“Segunda Oportunidad”
 - Implementar validación de formularios mediante JavaScript/jQuery.  
 - Añadir un carrito de compra funcional usando **LocalStorage**.  
 - Diseñar una navegación intuitiva y accesible.  
-- Elaborar un presupuesto realista de implementación final.
 
 ---
 
@@ -41,7 +39,6 @@ Este repositorio contiene el desarrollo del proyecto **“Segunda Oportunidad”
 - **CSS3**  
 - **JavaScript (ES6)**  
 - **jQuery**  
-- **LocalStorage API**  
 - **FontAwesome**  
 
 ---
